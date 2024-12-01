@@ -21,14 +21,14 @@ href="https://www.facebook.com/profile.php?id=100009582499964">Facebook</li></a>
       </nav>
     </header>  
   </main>
-    <h1>TITULO DA PAGINA</h1>
+    <h1>Biologia</h1>
       <div class="PRIMEIROPARAGRAFO">
-      <h3>TITULO DO TEXTO</h3>
-      <p><i><b>TEXTO</i></p></b>
+      <h3>Desenvolvimento sustentável</h3>
+      <p><i><b>O desenvolvimento sustentável refere se a um modelo de desenvolvimento economico,social e politico que esteja em harmonia com o meio ambiente.Isso significa que é preciso fazer a utilização racional dos recursos naturais de forma que seja possível suprir as necessidades da sociedade atual,mas sem que haja o comprometimento da disponibilidade desses mesmos recursos para as gerações futuras.O desenvolvimento sustentável se apoia em três principios básicos. São eles:</p></i></b>
       <ul id="lista02">
-        <li>ITEM 01</li>
-        <li>ITEM 02</li>
-        <li>ITEM 03</li>
+        <li> O ambiental</li>
+        <li>O economico</li>
+        <li></li>
       </ul>
       </div>
    <h1>***</h1>
