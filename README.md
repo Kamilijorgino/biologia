@@ -28,7 +28,7 @@ href="https://www.facebook.com/profile.php?id=100009582499964">Facebook</li></a>
       <ul id="lista02">
         <li> O ambiental</li>
         <li>O economico</li>
-        <li></li>
+        <li>O social</li>
       </ul>
       </div>
    <h1>***</h1>
